@@ -7,10 +7,10 @@ program PepitaGame {
 	game.height(10)
 	game.width(10)
 
-	// add assets in asset folder, for example, for the background
+	/** add assets in asset folder, for example, for the background
   // game.boardGround("fondo2.jpg")
 
-	//
+	**//
 
 	game.showAttributes(pepita) //Debug
 
