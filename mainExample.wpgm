@@ -10,7 +10,7 @@ program PepitaGame {
 	/** add assets in asset folder, for example, for the background
   // game.boardGround("fondo2.jpg")
 
-	**//
+	//
 
 	game.showAttributes(pepita) //Debug
 
