@@ -1,9 +1,10 @@
-import example.pepita
+import example.*
 
 describe "group of tests for pepita" {
 
   test "pepita has initial energy" {
-    assert.equals(100, pepita.energy())
+    var corsa1 = new Corsa(color = "rosa")
+    assert.equals("rosa", corsa1.color())
   }
 
 }
